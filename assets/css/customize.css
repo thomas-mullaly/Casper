@@ -1,0 +1,26 @@
+body,
+h1, h2, h3, h4, h5, h6,
+.main-nav a,
+.subscribe-button,
+.page-title,
+.post-meta,
+.read-next-story .post:before,
+.pagination,
+.site-footer {
+    font-family: 'Lato', Helvetica, 'Open Sans', sans-serif;
+}
+
+pre {
+    background: inherit;
+}
+
+.social a {
+    font-size: 2rem;
+    text-decoration: none;
+    margin-right: .5em;
+}
+
+.social a:hover {
+    border: none;
+    color: #000;
+}

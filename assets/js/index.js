@@ -6,6 +6,8 @@
 (function ($, undefined) {
     "use strict";
 
+    hljs.initHighlightingOnLoad();
+
     var $document = $(document);
 
     $document.ready(function () {
