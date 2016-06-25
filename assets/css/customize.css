@@ -28,3 +28,15 @@ pre {
     border: none;
     color: #000;
 }
+
+.logo {
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 3px;
+  float: left;
+}
+
+.logo > i {
+  padding: .25em;
+  font-size: 1.5em;
+}
